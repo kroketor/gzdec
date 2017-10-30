@@ -21,4 +21,5 @@ In autogen.sh the default location is /usr/local. You would need to add /usr/loc
 You would also need to install the zlib.h and bzlib.h just in case it's no present in your system:
 
 sudo apt-get install zlib1g-dev
+
 sudo apt-get install libbz2-dev
