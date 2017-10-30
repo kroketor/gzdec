@@ -1,0 +1,2 @@
+# gzdec
+Gstreamer plugin test
